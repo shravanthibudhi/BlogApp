@@ -1,0 +1,25 @@
+[{
+    "id": "1581461442206",
+    "title": "The Gardenia",
+    "content": "Gardenia’s are most famous for their scented and waxy white flowers that can bring a garden to life. Gardenia plants are prized for the strong sweet scent of their flowers.",
+    "post_image": "uploads/gardenia.jpg",
+    "added_date": "1581461442206"
+}, {
+    "id": "1581377760891",
+    "title": "The Gerbera Daisy",
+    "content": "The fifth most popular flower in the world, the Gerbera Daisy comes in a full rainbow of colors, including pink, orange, yellow and red. The Gerbera was discovered in 1884 in South Africa before it was brought to England.",
+    "post_image": "uploads/gerbera_daisy.jpg",
+    "added_date": "1581377760891"
+}, {
+    "id": "1581376324100",
+    "title": "The Iris",
+    "content": "Elegant irises are native to Europe, the Middle East, northern Africa, Asia, and North America. The rhizomes of some iris species are called orrisroot and are used in perfumery and for potpourris.",
+    "post_image": "uploads/iris.jpg",
+    "added_date": "1581376324100"
+}, {
+    "id": "1581375207401",
+    "title": "The Dalia",
+    "content": "These bold blooms come in a wide range of color, and thrive in some shade. Even though Dahlias are perennials, they are tuberous rooted plants, so they should be replanted every spring after resting.",
+    "post_image": "uploads/daliah.jpg",
+    "added_date": "1581375207401"
+}]
