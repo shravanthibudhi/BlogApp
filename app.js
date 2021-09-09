@@ -9,6 +9,8 @@ app.use((req, res, next) => {
     next(); // to allow the middleware to hit the next API endpoints
 })
 
+app.use('/uploads', express.static('uploads'));
+
 app.get("/api/posts", (req, res)=>{
     res.status(200).send(postsData.get());
 })
