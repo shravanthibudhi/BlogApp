@@ -4,6 +4,11 @@ const app = express();
 const Post = require('../blog-api/api/models/posts');
 const postsData = new Post();
 
+app.use((req, res, next) => {
+    res.setHeader("Access-Control-Allow-Origin", "*");
+    next(); // to allow the middleware to hit the next API endpoints
+})
+
 app.get("/api/posts", (req, res)=>{
     res.status(200).send(postsData.get());
 })
